@@ -1,0 +1,9 @@
+一些命令：
+
+`git log`：最普通的查看，看当前分支的历史
+
+`git log --oneline`：查看形式更简洁，看每次的 message
+
+`git log -n4 --oneline`：指定查看的次数
+
+`gitk` 图形界面
